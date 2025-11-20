@@ -30,13 +30,13 @@ The attribution is mainly so that end users for products that have this data int
 Word files follow this pattern:
 
 ```
-{surah:03d}_{ayah:03d}_{word:02d}.mp3
+{surah:03d}_{ayah:03d}_{word:03d}.mp3
 ```
 
 Example:
 
 * Surah 1 (Al-Fātiḥah), Ayah 1, Word 3 →
-  `001_001_03.mp3`
+  `001_001_003.mp3`
 
 
 # 🎧 About the Metadata
